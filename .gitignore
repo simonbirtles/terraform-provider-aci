@@ -1,0 +1,11 @@
+# ignore terraform-provider-aci bin file
+terraform-provider-aci
+
+# ignore log file
+*.log
+
+# ignore terraform hidden dir 
+.terraform
+
+# local state files
+terraform.tfstate*

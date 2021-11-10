@@ -1,5 +1,7 @@
 # terraform-provider-aci
 
+This was before Cisco released their own (I did ask them if they were doing one and they said no !!) :-) I would have liked to have the ACI Model schema to get rid of a whole lot of code and have the models dynamically added and version selection ability, but Cisco told me it didn't exist. 
+
 This is the repository for the Terraform Cisco ACI provider which is used to work with Terraform and Cisco ACI.
 
 ### Provides:
